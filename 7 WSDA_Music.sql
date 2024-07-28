@@ -46,4 +46,7 @@ FROM
 	Customer as c
 	
 WHERE
-	Country = "USA"
+	c.Country = "USA"
+	
+ORDER BY
+	CustomerFullName
