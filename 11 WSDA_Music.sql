@@ -1,6 +1,6 @@
 /*
 Created by Robin Gao on 28 July 2024
-Description: DML | Inserting, updating, and deleting data
+Description: Data Manipulation Language | Inserting, updating, and deleting data
 */
 
 -- exercise
